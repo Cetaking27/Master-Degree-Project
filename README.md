@@ -1,7 +1,7 @@
 
 
 # Master-Degree-Project
-# <span>** Method of Negative moments of positive randoms variables </span>
+# <span style="font-family:'Times News Roman'">** Method of Negative moments of positive randoms variables </span>
 ![definition](https://github.com/Cetaking27/Master-Degree-Project/blob/main/Screenshot_15-11-2024_16117_www.overleaf.com.jpeg)
 
 Recent experiments on the lifespan of products focus on measuring reliability characteristics by testing identical components under normal conditions and recording their "time to failure." This time is considered a random variable with a specific cumulative distribution function (CDF). The inverse moment of a positive random variable is used to estimate the lifespan and understand the distribution of failure times. Significant inverse moments can indicate a higher likelihood of early failures, providing valuable information for product design and reliability assessment.
