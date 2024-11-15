@@ -1,7 +1,7 @@
 
 
 # Master-Degree-Project
-#<span style="font-family: 'Bungee Spice', sans-serif;">Method of Negative Moments of Positive Random Variables</span>
+# <span style="font-family: 'Bungee Spice', sans-serif;">Method of Negative Moments of Positive Random Variables</span>
 
 ![definition](https://github.com/Cetaking27/Master-Degree-Project/blob/main/Screenshot_15-11-2024_16117_www.overleaf.com.jpeg)
 
