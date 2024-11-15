@@ -1,1 +1,3 @@
 # Master-Degree-Project
+# <span>**Thesis**:: method of Negative moments of positive random variables </span>
+The main objective of your Master's thesis was to develop and refine methods for calculating the negative moments of positive random variables for various statistical distributions, such as Weibull, Poisson, Gamma, and Lambda distributions. These methods aim to provide deeper insights into the behavior of random variables, particularly in the context of life testing. By deriving negative moments, you can better understand and model failure rates, survival times, and reliability characteristics in real-world applications, such as product life expectancy, engineering systems, and risk assessment in industries requiring failure modeling.
