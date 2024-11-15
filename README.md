@@ -1,7 +1,14 @@
 
 
 # Master-Degree-Project
-# <span style="font-family: 'Bungee Spice', sans-serif;">Method of Negative Moments of Positive Random Variables</span>
+# <head>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Sixtyfour+Convergence:SCAN@23&display=swap" rel="stylesheet">
+</head>
+<body>
+  <span style="font-family: 'Bungee Spice', sans-serif;">Method of Negative Moments of Positive Random Variables</span>
+</body>
 
 ![definition](https://github.com/Cetaking27/Master-Degree-Project/blob/main/Screenshot_15-11-2024_16117_www.overleaf.com.jpeg)
 
