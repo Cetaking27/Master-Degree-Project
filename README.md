@@ -1,4 +1,4 @@
-<img src="https://image2.slideserve.com/4505741/moment-generating-function-of-a-random-variable-x4-l.jpg" width="700" height="100">
+<img src="https://image2.slideserve.com/4505741/moment-generating-function-of-a-random-variable-x4-l.jpg" width="700" height="300">
 
 
 ## MASTER THESIS PROJECT
