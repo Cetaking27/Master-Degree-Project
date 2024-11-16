@@ -1,5 +1,9 @@
+<img src="https://image2.slideserve.com/4505741/moment-generating-function-of-a-random-variable-x4-l.jpg" width="300" height="300">
+
+
 ## MASTER THESIS PROJECT
 ### Methods of negatives moment of randoms variables
+
 This thesis consists of three chapters:
 1. **Theoretical Overview**: It explains statistical moments, their use in data analysis, and the formal definition and role of the inverse moment in characterizing distributions, compared to other moments like mean and variance.
 2. **Interpretation of the Inverse Moment**: It explores how the inverse moment helps interpret data, its relationship with the distribution shape (skewness), and examples in different contexts.
